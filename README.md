@@ -42,6 +42,6 @@ RUN THIS CODE ON TERMINAL LIKE:- [TERMUX](https://play.google.com/store/apps/det
 
 
 
-<h6 align="center">
+<h8 align="center">
 <b> ©𝙿𝚘𝚠𝚎𝚛𝚍 𝙱𝚢 𝚃𝙴𝙰𝙼-𝙳3𝚅𝙸𝙻 [2022]<b>
-</h6>
+</h8>
