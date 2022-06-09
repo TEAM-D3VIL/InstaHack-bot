@@ -1,6 +1,6 @@
 # InstaHack
 Get unlimited followers on Instagram for free . 
-https://user-images.githubusercontent.com/34893261/53686880-d50f6000-3d0b-11e9-8c42-cab1ad30b24e.png
+
 
 ## Features:
 ## Unfollow Tracker
