@@ -6,7 +6,7 @@ Get unlimited followers on Instagram for free .
 ### Usage:
 ```
 git clone https://github.com/TEAM-D3VIL/InstaHack-bot
-cd InstaHack
+cd InstaHack-bot
 bash instahackle.sh
 ```
 RUN THIS CODE ON TERMINAL LIKE:- [TERMUX](https://play.google.com/store/apps/details?id=com.termux)
