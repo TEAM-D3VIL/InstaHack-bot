@@ -16,6 +16,6 @@ git clone https://github.com/TEAM-D3VIL/InstaHack
 cd inshackle-bot
 bash inshackle.sh
 ```
+RUN THIS CODE ON TERMINAL LIKE:- [TERMUX](https://play.google.com/store/apps/details?id=com.termux)
 
 
-![cb](https://user-images.githubusercontent.com/56509491/66774387-15100580-eedf-11e9-84ff-c0f396016bd5.jpg)
